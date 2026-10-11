@@ -33,3 +33,5 @@ coverage-tagger.out
 .vscode/
 .trae/
 .idea/
+
+.dirac*
